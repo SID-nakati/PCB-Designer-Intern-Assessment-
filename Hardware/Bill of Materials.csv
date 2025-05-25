@@ -1,0 +1,14 @@
+Reference,Qty,Value,Footprint,Datasheet,Cost (₹)
+C3,1,1uF,Capacitor_SMD:C_0805_2012Metric,~,02.00
+C4,1,100nF,Capacitor_SMD:C_0805_2012Metric,~,02.00
+D1,1,LED,LED_SMD:LED_0805_2012Metric,~,03.00
+J1,1,USB_C_Receptacle_USB2.0_14P,Connector_USB:USB_C_Receptacle_GCT_USB4085,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,60.00
+J2,1,Conn_1x4_SWD_Debugger,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~,10.00
+J3,1,Conn_01x04_UART,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~,10.00
+J4,1,Conn_01x04_I2C,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~,10.00
+"R1,R2",2,5.1k,Resistor_SMD:R_0805_2012Metric,~,02.00
+R3,1,330,Resistor_SMD:R_0805_2012Metric,~,02.00
+"R4,R5",2,4.7k,Resistor_SMD:R_0805_2012Metric,~,02.00
+R6,1,10k,Resistor_SMD:R_0805_2012Metric,~,02.00
+U1,1,STM32G070CBTx,Package_QFP:LQFP-48_7x7mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32g070cb.pdf,150.00
+U2,1,AMS1117-3.3_Regulator,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf,20.00
